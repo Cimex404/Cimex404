@@ -1,7 +1,7 @@
 <h1 align="center">Hey hey, I'm Jacob! :]</h1>
 <h3 align="center">Currently a 42 student.</h3>
 
--  Working on our current 42 project: Minishell
+-  Working on our current 42 project: NetPractice
 -  My passion project: [The Fabric of the Mind](https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/)
 
 ### 🔧 &nbsp;The things I can do:
@@ -29,6 +29,14 @@
   It is available for wishlist on <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">Steam</a></strong>.
 </p>
 </blockquote>
+
+### 💾 &nbsp;My completed 42 Projects
+-  [libft](https://github.com/Cimex404/42-libft)
+-  [ft_printf](https://github.com/Cimex404/42-ft_printf)
+-  [get_next_line](https://github.com/Cimex404/42-get_next_line)
+-  [Minitalk](https://github.com/Cimex404/42-minitalk)
+-  [push_swap](https://github.com/Cimex404/42-push_swap)
+-  [Philosophers](https://github.com/Cimex404/42-philosophers)
 
 ### 📊 &nbsp;GitHub Statistics
 Impressive, I know...
