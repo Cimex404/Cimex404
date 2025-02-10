@@ -37,6 +37,7 @@
 -  [Minitalk](https://github.com/Cimex404/42-minitalk)
 -  [push_swap](https://github.com/Cimex404/42-push_swap)
 -  [Philosophers](https://github.com/Cimex404/42-philosophers)
+-  [Minishell](https://github.com/Cimex404/42-minishell)
 
 ### 📊 &nbsp;GitHub Statistics
 Impressive, I know...
