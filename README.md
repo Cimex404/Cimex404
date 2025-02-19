@@ -1,7 +1,7 @@
 <h1 align="center">Hey hey, I'm Jacob! :]</h1>
 <h3 align="center">Currently a 42 student.</h3>
 
--  Working on our current 42 project: cube3d
+-  Working on our current 42 project: CPP_module
 -  My passion project: [The Fabric of the Mind](https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/)
 
 ### 🔧 &nbsp;The things I can do:
