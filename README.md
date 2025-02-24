@@ -39,6 +39,7 @@
 -  [Philosophers](https://github.com/Cimex404/42-philosophers)
 -  [Minishell](https://github.com/Cimex404/42-minishell)
 -  [NetPractice](https://github.com/Cimex404/42-netPractice)
+-  [CPP_Collection](https://github.com/Cimex404/42-CPP_collection)
 
 ### 📊 &nbsp;GitHub Statistics
 Impressive, I know...
