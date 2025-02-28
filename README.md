@@ -16,9 +16,13 @@
 </p>
 
 ### 🎮 &nbsp;The Fabric of the Mind
+<p>
+  <img src="https://github.com/Cimex404/Cimex404/blob/main/header.jpg" width="200">
+</p>
+
 <blockquote>
 <p>
-  I have been working on The Fabric of the Mind for a few years now.  
+  I have been working on <strong>The Fabric of the Mind</strong> for a few years now.  
   It has painful gameplay, a dark (optional) story, and is presented in complete black and white.
 </p>
 <p>
@@ -26,7 +30,10 @@
   and allows for a ton of creative and open movement.
 </p>
 <p>
+  <img src="https://github.com/Cimex404/Cimex404/blob/main/Action.gif" width="400">
+</p>
   It is available for wishlist on <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">Steam</a></strong>.
+<p>
 </p>
 </blockquote>
 
