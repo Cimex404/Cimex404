@@ -1,59 +1,81 @@
 <h1 align="center">Hey hey, I'm Jacob! :]</h1>
 <h3 align="center">Currently a 42 student.</h3>
 
--  Working on our current 42 project: CPP_module
--  My passion project: [The Fabric of the Mind](https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/)
+<hr>
 
-### 🔧 &nbsp;The things I can do:
+<h2>✨ About Me</h2>
+<ul>
+  <li>🔧 Working on my current <strong>42 project:</strong> <code>CPP_module</code></li>
+  <li>🎮 Passion project: <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">The Fabric of the Mind</a></strong></li>
+</ul>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,c,gamemakerstudio,vim,vscode" />
-  </a>
-</p>
-<p align="left">
-  Bash &nbsp; Git &nbsp; C &nbsp; GameMakerStudio &nbsp; Vim &nbsp; VSCode
-</p>
+<hr>
 
-### 🎮 &nbsp;The Fabric of the Mind
-<p>
-  <img src="https://github.com/Cimex404/Cimex404/blob/main/header.jpg" width="200">
-</p>
+<h2>🔧 The Things I can do...</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GameMaker Studio"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vim" alt="Vim"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Bash</strong></td>
+    <td align="center"><strong>Git</strong></td>
+    <td align="center"><strong>C</strong></td>
+    <td align="center"><strong>GameMaker Studio</strong></td>
+    <td align="center"><strong>Vim</strong></td>
+    <td align="center"><strong>VSCode</strong></td>
+  </tr>
+</table>
 
+<hr>
+
+<h2>🎮 The Fabric of the Mind</h2>
 <blockquote>
 <p>
   I have been working on <strong>The Fabric of the Mind</strong> for a few years now.  
-  It has painful gameplay, a dark (optional) story, and is presented in complete black and white.
+  It features <strong>painful gameplay</strong>, a <strong>dark (optional) story</strong>, and is presented in complete <strong>black and white</strong>.
 </p>
 <p>
-  The main gimmick of the game is sticking to walls and ceilings, this opens up many more gameplay styles  
-  and allows for a ton of creative and open movement.
+  <strong>🔄 Main Gimmick:</strong> Stick to walls and ceilings to open up <strong>creative movement and unique gameplay styles</strong>.
 </p>
-<p>
+<p align="left">
   <img src="https://github.com/Cimex404/Cimex404/blob/main/Action.gif" width="400">
 </p>
-  It is available for wishlist on <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">Steam</a></strong>.
 <p>
+  💾 Available for <strong>wishlist</strong> on <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">Steam</a></strong>!
 </p>
 </blockquote>
 
-### 💾 &nbsp;My completed 42 Projects
--  [libft](https://github.com/Cimex404/42-libft)
--  [ft_printf](https://github.com/Cimex404/42-ft_printf)
--  [get_next_line](https://github.com/Cimex404/42-get_next_line)
--  [Minitalk](https://github.com/Cimex404/42-minitalk)
--  [push_swap](https://github.com/Cimex404/42-push_swap)
--  [Philosophers](https://github.com/Cimex404/42-philosophers)
--  [Minishell](https://github.com/Cimex404/42-minishell)
--  [NetPractice](https://github.com/Cimex404/42-netPractice)
--  [CPP_Collection](https://github.com/Cimex404/42-CPP_collection)
+<hr>
 
-### 📊 &nbsp;GitHub Statistics
-Impressive, I know...
+<h2>📝 My Completed 42 Projects</h2>
+<ul>
+  <li><a href="https://github.com/Cimex404/42-libft">libft</a></li>
+  <li><a href="https://github.com/Cimex404/42-ft_printf">ft_printf</a></li>
+  <li><a href="https://github.com/Cimex404/42-get_next_line">get_next_line</a></li>
+  <li><a href="https://github.com/Cimex404/42-minitalk">Minitalk</a></li>
+  <li><a href="https://github.com/Cimex404/42-push_swap">push_swap</a></li>
+  <li><a href="https://github.com/Cimex404/42-philosophers">Philosophers</a></li>
+  <li><a href="https://github.com/Cimex404/42-minishell">Minishell</a></li>
+  <li><a href="https://github.com/Cimex404/42-netPractice">NetPractice</a></li>
+  <li><a href="https://github.com/Cimex404/42-CPP_collection">CPP_Collection</a></li>
+</ul>
 
-<p align="center">
-<a href="https://github.com/Cimex404">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cimex404&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cimex404&layout=compact&langs_count=4&theme=radical"/>
-</a>
+<hr>
+
+<h2>📊 GitHub Statistics</h2>
+<p align="left">
+  Impressive, I know...
 </p>
+<p align="center">
+  <a href="https://github.com/Cimex404">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cimex404&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cimex404&layout=compact&langs_count=4&theme=radical"/>
+  </a>
+</p>
+
+<hr>
