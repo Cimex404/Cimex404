@@ -17,6 +17,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=gamemakerstudio" alt="GameMaker Studio"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vim" alt="Vim"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/></td>
@@ -25,6 +26,7 @@
     <td align="center"><strong>Bash</strong></td>
     <td align="center"><strong>Git</strong></td>
     <td align="center"><strong>C</strong></td>
+    <td align="center"><strong>C++</strong></td>
     <td align="center"><strong>GameMaker Studio</strong></td>
     <td align="center"><strong>Vim</strong></td>
     <td align="center"><strong>VSCode</strong></td>
