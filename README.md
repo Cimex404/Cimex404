@@ -5,8 +5,8 @@
 
 <h2>✨ About Me</h2>
 <ul>
-  <li>🔧 Working on my current <strong>42 project:</strong> <code>CPP Modules (part2)</code></li>
-  <li>🎮 Passion project: <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">The Fabric of the Mind</a></strong></li>
+  <li>🔧 Working on my current <strong>42 project:</strong> <code>webserv</code></li>
+  <li>🎮 My passion project: <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">The Fabric of the Mind</a></strong></li>
 </ul>
 
 <hr>
