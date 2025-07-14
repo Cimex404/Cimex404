@@ -5,7 +5,7 @@
 
 <h2>✨ About Me</h2>
 <ul>
-  <li>🔧 Working on my current <strong>42 project:</strong> <code>webserv</code></li>
+  <li>🔧 Working on my current <strong>42 project:</strong> <code>Exam 6</code></li>
   <li>🎮 My passion project: <strong><a href="https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/">The Fabric of the Mind</a></strong></li>
 </ul>
 
@@ -66,6 +66,7 @@
   <li><a href="https://github.com/Cimex404/42-netPractice">NetPractice</a></li>
   <li><a href="https://github.com/Cimex404/42-CPP_collection">CPP_Collection</a></li>
   <li><a href="https://github.com/Cimex404/42-miniRT">miniRT</a></li>
+  <li><a href="https://github.com/Cimex404/42-webserv">webserv</a></li>
 </ul>
 
 <hr>
